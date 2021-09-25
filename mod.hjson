@@ -1,0 +1,10 @@
+{
+  "name": "Spaghetti Mod",
+  "displayName": "Various additions by Nifley, Spacecheddar and Tee1er",
+  "author": "Nifley, Spacecheddar and Tee1er",
+  "description": "WIP",
+  "version": "0.1",
+  "minGameVersion": "131",
+  "dependencies": [],
+  "hidden": false
+}
