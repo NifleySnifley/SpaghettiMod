@@ -1,10 +1,11 @@
 {
-  "name": "Spaghetti Mod",
-  "displayName": "Various additions by Nifley, Spacecheddar and Tee1er",
-  "author": "Nifley, Spacecheddar and Tee1er",
-  "description": "WIP",
-  "version": "0.1",
-  "minGameVersion": "131",
-  "dependencies": [],
-  "hidden": false
+    name: "spaghettimod",
+    displayName: "Spaghetti Mod",
+    author: "Nifley and Spacecheddar",
+    description: "Various additions by Nifley and Spacecheddar",
+    version: "0.5",
+    minGameVersion: 126,
+    # This is a java mod
+    java: true,
+    main: "spaghetti.SpaghettiModBase"
 }

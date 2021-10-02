@@ -1,0 +1,20 @@
+{
+    name: "Large Phase Conveyor",
+    description: "WIP",
+    category: "distribution",
+    requirements: [
+        "phase-fabric/15",
+        "silicon/20",
+        "lead/40",
+        "graphite/30"
+    ],
+    type: "ItemBridge",
+    range: 24,
+    size: 2,
+    haspower: true,
+    pulse: "True",
+    consumes: {
+        power: 1
+    },
+    research: "phase-conveyor"
+}

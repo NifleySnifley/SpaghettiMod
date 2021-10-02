@@ -1,0 +1,7 @@
+{
+    name: "Plastanium Router",
+    category: "distribution",
+    description: "WIP",
+    type: "Router",
+    research: "plastanium-conveyor"
+}

@@ -1,0 +1,26 @@
+{
+    name: "Crusher",
+    description: "Turns various metals into scrap",
+    size: 2,
+    category: "crafting",
+    health: 100,
+    consumes: {
+        power: 10,
+        items: {
+            items: [
+                "copper/1"
+            ]
+        }
+    },
+    itemCapacity: 10,
+    outputItem: "scrap/1",
+    requirements: [
+        "copper/100",
+        "lead/200",
+        "silicon/20"
+    ],
+    drawer: {
+        type: "DrawRotator"
+    },
+    research: "separator"
+}

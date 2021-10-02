@@ -1,0 +1,16 @@
+{
+    type: "Drill",
+    name: "Nano Drill",
+    description: "Isn't it just adorable!",
+    size: 1,
+    tier: 2,
+    drillTime: 700,
+    rotateSpeed: 5,
+    requirements: [
+        "lead/3"
+    ],
+    category: "production",
+    ambientSound: "drill",
+    ambientSoundVolume: 0.1,
+    health: 20
+}
